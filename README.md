@@ -1,1 +1,1 @@
-# BootstrapV3
+# Bootstrap 3.1.0 template
